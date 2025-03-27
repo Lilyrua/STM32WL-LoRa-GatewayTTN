@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="Exported constants "/>
+		<item value="#define LORAWAN_DEFAULT_DATA_RATE "/>
+		<item value="#define LORAWAN_DEFAULT_DATA_RATE DR_2"/>
+		<item value="USER CODE"/>
+		<item value="/* USER CODE BEGIN Defines */"/>
+		<item value="REGION_AS923"/>
+		<item value="#define ACTIVE_REGION LORAMAC_REGION_EU868"/>
+		<item value="#define ACTIVE_REGION    LORAMAC_REGION_EU868"/>
+		<item value="OnTxTimerEvent"/>
+		<item value="OnJoinRequest"/>
+		<item value="OnTxt"/>
+	</list>
+</section>
